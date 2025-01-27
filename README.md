@@ -25,11 +25,10 @@ In this project, I built a comprehensive Active Directory environment within a h
 
 ## Steps
 
-<!--
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+*Ref 1: Network Diagram* 
 
-Example below.
+![Network Diagram](https://github.com/user-attachments/assets/9afd14d9-8a89-4b55-8931-8f0c5f5f1ef3)
 
-*Ref 1: Network Diagram* -->
+*Ref 2: Network Diagram* 
+
